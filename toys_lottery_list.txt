@@ -1,0 +1,7 @@
+1,Vinny,44,1
+2,Hruchka,99,8
+3,Tigrulya,6,3
+4,Slonik,8,6
+5,Kengurenok,50,6
+6,Lion,85,9
+7,Hey,56,1
